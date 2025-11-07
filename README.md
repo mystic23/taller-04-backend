@@ -3,11 +3,14 @@ Bueno, aquí se desarrolló el Taller 04. En este proyecto se integran los talle
 
 ## Cómo me ejecuto
 Primero instala las dependencias con:
-    npm install
+    "npm install"
+
 Luego inicia el servidor con:
-    npm run dev
+    "npm run dev"
+
 Después ejecuta el script para probar todos los endpoints automáticamente:
-    bash scripts/test-all.sh
+    "bash scripts/test-all.sh"
+    
 
 El servidor corre por defecto en:
     http://localhost:3000
